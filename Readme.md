@@ -15,5 +15,5 @@ Development Environment:
 
 <br/>
 <p align="center">
-  <img src="./assets/01.png" alt="Personal Expense Tracker"/>
+  <img src="./assets/CardGameResult.png" alt="CardGame"/>
 </p>
